@@ -1,4 +1,4 @@
 "# car-rental-system" MERN Stack
 
-Admin username: admin
-Admin password: admin
+Admin username: admin, 
+password: admin
